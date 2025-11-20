@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 56d6cf40072026344a35a924a49a008f
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AR3DMat_BlackPlastic_BaseColor
+    second: {fileID: 2800000, guid: 5d7d587fce20ff34c94d6309ec773ded, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AR3DMat_BlackPlastic_Metalness
+    second: {fileID: 2800000, guid: c777b0fd23f858140a2585f150db7596, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AR3DMat_BlackPlastic_Normal
+    second: {fileID: 2800000, guid: 302f78fb454eda34e8f31319c360a807, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AR3DMat_BlackPlastic_Roughness
+    second: {fileID: 2800000, guid: b66bf5e4d000e4145ba0939f77de91ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brown Envelope Texture_diffuse
+    second: {fileID: 2800000, guid: 2305f142ff8954e40bf13c35aefdbd07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brown Envelope Texture_roughness
+    second: {fileID: 2800000, guid: 23b26e049125eca4d9f407afad7f4eb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Clay004_2K_Color
+    second: {fileID: 2800000, guid: 3b3a05ef12437f74aae3ddf922157b67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Clay004_2K_Roughness
+    second: {fileID: 2800000, guid: 60b8567bebc72b04ba773a1ddf7773e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric036_2K_Color
+    second: {fileID: 2800000, guid: 4693440618978e9418d2bba9c52e7e92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric036_2K_Roughness
+    second: {fileID: 2800000, guid: d2a9dc508c6784846906af1077b1349b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GWC Brass Antique_metallic
+    second: {fileID: 2800000, guid: f9e3d1c0fcf62aa469970dd271cef45a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GWC Brass Antique_normal
+    second: {fileID: 2800000, guid: 0d1f26ac8a76ce541816e00c40fd4e9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ladder_Ladder_BaseColor
+    second: {fileID: 2800000, guid: 6e4a50ccac2c2e743b82fbd45721b5bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ladder_Ladder_Normal
+    second: {fileID: 2800000, guid: 5bb15340bb5578b4dba7bcc75e7ac6c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ladder_Ladder_Roughness
+    second: {fileID: 2800000, guid: 7116ee4d87d15674b95bbceeaff3e43b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mat3d66_1380622_1_7650_baseColor
+    second: {fileID: 2800000, guid: b492e41ea69f16445bc0c232243e6fbf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mat3d66_1380622_1_7650_normal
+    second: {fileID: 2800000, guid: 45ac391331e2abd4488dd86aefc1fff5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plant
+    second: {fileID: 2800000, guid: 7239d7b7d6761ca459084747e1c2258b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RedGlitter_Diffuse
+    second: {fileID: 2800000, guid: a6f033e15a9954f47b67c15b02b1e9e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RedGlitter_Metallic
+    second: {fileID: 2800000, guid: 49a662a421d02064b81ea9c51ac2f820, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RedGlitter_Normal
+    second: {fileID: 2800000, guid: 8830d163bde3cb642968a39b49fd8b77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RedGlitter_Roughness
+    second: {fileID: 2800000, guid: c9053e627d1bf1b40bad4caa3e487131, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: VM BASE COLOR
+    second: {fileID: 2800000, guid: 641edf0e95ec5694db3b44d56ebaef26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: VM NORMALS
+    second: {fileID: 2800000, guid: c6f551b31b076c24cbca8833bb5fa0ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Zuri Akwl-1779 Carpet by Jaipur Rug
+    second: {fileID: 2800000, guid: 3db0c9b7397b38b489e7b8ceeb24321f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: black plastic
+    second: {fileID: 2800000, guid: 5117827bcf128ef40b4b487afad1c176, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: calathea_orbifolia_01_diff_1k
+    second: {fileID: 2800000, guid: 66b2053beeac7ec439cd0bfccafce4dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2800000, guid: d1ca8c48b8327bc46b4900b6359a883a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: foam
+    second: {fileID: 2800000, guid: 5b5c413811170574d8b806e97cc32cba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: foam_normals
+    second: {fileID: 2800000, guid: c3413a61ca381ba479a106ee9dfab1e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: freijo_linha_madeira_do_brasil_guararapes
+    second: {fileID: 2800000, guid: 647797e9e503a1e47ab064a21e7dadaa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: green plastic
+    second: {fileID: 2800000, guid: cc2dcd2b56b0e2c46a0884d7b0cf1f3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: images
+    second: {fileID: 2800000, guid: e8aed5794222aa649aa61b28e059c983, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: istockphoto-535536165-612x612
+    second: {fileID: 2800000, guid: c7f6ee9b05deffd4490177f73314f65f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: material0_basecolor
+    second: {fileID: 2800000, guid: 95dd583a48e69b9498372a7ff5d03365, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: material0_normal
+    second: {fileID: 2800000, guid: dc0a504b2919aaf44aeb33f479492176, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2800000, guid: 524f334d0800e084cabc39b361ac5479, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: red plastic
+    second: {fileID: 2800000, guid: 5224cfc65df0a514d8bd7c985c9f6514, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2800000, guid: f922928ed9a3ab7469721c725421dc6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood 01 Diffuse
+    second: {fileID: 2800000, guid: c84619a5916ee4743ad1fa78cd69cbc4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood 01 normal
+    second: {fileID: 2800000, guid: 85f215026fdea8f4799d7a2e19681e0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood 01 roughness
+    second: {fileID: 2800000, guid: 597c0e604ce2699488951ec4a2526aba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yellow plastic
+    second: {fileID: 2800000, guid: 1c83093caf894de45a057303042f3e42, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
